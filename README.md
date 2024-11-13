@@ -1,18 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+## Build Modern-UI-UX-Dedign using Next-JS and Tailwind Css.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![1](https://github.com/user-attachments/assets/f72954ee-4738-46e1-9802-c54f2795f4c0)
+![2](https://github.com/user-attachments/assets/0527c490-054d-441d-948f-15c451d4a35b)
+![3](https://github.com/user-attachments/assets/911a6f84-0a01-4806-b034-c6d0e709cd30)
+![4](https://github.com/user-attachments/assets/6805c0b2-4cd4-426c-84d3-a30a90d487f0)
+![5](https://github.com/user-attachments/assets/818ac568-910a-4504-b2c8-fe5adbae9008)
+![6](https://github.com/user-attachments/assets/d763dcfc-4586-478e-9cdf-d536b228fdd3)
+![7](https://github.com/user-attachments/assets/cdd20679-8d65-459d-b6e2-174d487dd5a1)
+![8](https://github.com/user-attachments/assets/590ce530-2f3b-4e9f-8c4c-0789279ae78a)
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
